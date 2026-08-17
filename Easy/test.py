@@ -1,1 +1,0 @@
-﻿print('LeetCode automation test')
